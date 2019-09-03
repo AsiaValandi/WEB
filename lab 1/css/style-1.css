@@ -1,0 +1,69 @@
+* {
+	padding: 15px 60px 15px 60px;
+	margin: 0;
+
+
+}
+
+body {
+	background: url("E:/универ/3 курс/web/lab 1/img/bamboo_5.jpg");
+
+
+}
+
+.bamboo {
+		background: rgba(152, 251, 152, 70%);
+}
+
+#panda {
+
+	    text-align: center;	
+	    color: rgb(152, 251, 152);
+	    font-family: cursive;
+	    text-decoration: blink;
+	    text-shadow: black 0 0 2px;
+
+}
+
+.class-1 {
+
+	padding: 20px 10px 5px 500px;
+
+	text-align: right;
+	font-style: italic;
+	font-size: 15px;
+	font-family: sans-serif;
+	color: rgb(152, 251, 152);
+	text-shadow: black 0 0 2px;
+
+
+}
+
+#title-1, #title-2, #title-3 {
+		padding: 0px 10px 0px 100px;
+		text-align: left;	
+	    color: #0c5705;
+	    font-family: cursive;
+
+}
+.text-1, .text-2, .text-3 {
+		font-family: serif;
+		text-align: justify;
+		font-size: 18px;
+		
+}
+
+img {
+	display: block;
+	margin:15px auto;
+	width: 60%;
+	height: auto;
+}
+
+li {
+	 padding-left: 2%;
+}
+.link {
+		text-align: right;	
+	    font-family: cursive;
+	    border-top: 1px solid #0c5705;
